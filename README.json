@@ -1,0 +1,336 @@
+{
+  "items": [
+    {
+      "description": "Generate or analyse astrophysics / astronomy spectra",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "specutil",
+          "description": ": a Python package for spectral analysis in astronomy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T05:43:07Z",
+            "owner": "astropy",
+            "repo": "specutils",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyspeckit",
+          "description": "a python spectroscopic toolkit for a wide variety of astronomical instruments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-04T09:20:26Z",
+            "owner": "pyspeckit",
+            "repo": "pyspeckit",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChiantiPy",
+          "description": "python package to calculate the radiative properties of astrophysical plasmas based on the CHIANTI atomic database",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-20T14:45:44Z",
+            "owner": "chianti-atomic",
+            "repo": "ChiantiPy",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HELIOS",
+          "description": "GPU-Accelerated Radiative Transfer Code For Exoplanetary Atmospheres",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-23T15:20:03Z",
+            "owner": "exoclime",
+            "repo": "HELIOS",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpectroscoPyx",
+          "description": "spectroscopy package of the PlasmaPy project",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-05-29T15:57:36Z",
+            "owner": "PlasmaPy",
+            "repo": "SpectroscoPyx",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "radiospectra",
+          "description": "radio spectra on solar physics from the sunpy package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:45:57Z",
+            "owner": "sunpy",
+            "repo": "radiospectra",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyhdust",
+          "description": "spectroscopic module of the pyhdust package for multi-technique astronomical data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T21:28:20Z",
+            "owner": "danmoser",
+            "repo": "pyhdust",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Astrophysics & Astronomy Spectra"
+    },
+    {
+      "description": "Atmosphere spectra, with line of sight",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "lowtran",
+          "description": "LOWTRAN atmospheric absorption extinction, scatter and irradiance model--in Python and Matlab",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-19T01:14:46Z",
+            "owner": "space-physics",
+            "repo": "lowtran",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BART",
+          "description": "Bayesian Atmospheric Radiative Transfer fitting code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PLSQL",
+            "last_commit": "2023-07-20T20:20:17Z",
+            "owner": "exosports",
+            "repo": "BART",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyLBLRTM",
+          "description": "Helper functions in reading/writing LBLRTM input/output files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-09-19T22:51:10Z",
+            "owner": "wblumberg",
+            "repo": "PyLBLRTM",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Atmospheric Spectra"
+    },
+    {
+      "description": "General spectral processing or analysis packages",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rampy",
+          "description": "a Python package for spectral data processing (IR, Raman, XAS...)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-30T19:55:21Z",
+            "owner": "charlesll",
+            "repo": "rampy",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpectroChemPy",
+          "description": "Processing, analysing and modelling spectroscopic data (IR, NMR, UV-vis, ...).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:28:06Z",
+            "owner": "spectrochempy",
+            "repo": "spectrochempy",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scikit-spectra",
+          "description": "Python pandas-based toolkit for explorative spectroscopy (IR, IV-vis, ...).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-03T19:47:32Z",
+            "owner": "hughesadam87",
+            "repo": "scikit-spectra",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyspectra",
+          "description": "Python package for working with (hyper)spectral data",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-07-05T13:16:35Z",
+            "owner": "ibcp",
+            "repo": "pyspectra",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "General purpose"
+    },
+    {
+      "description": "Import/export of spectral data",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bruker OPUS Reader",
+          "description": "Reading the binary OPUS files generated by Bruker spectrometers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-14T22:57:39Z",
+            "owner": "qedsoftware",
+            "repo": "brukeropusreader",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "specio",
+          "description": "Interface to read hypersectral data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-08T12:45:56Z",
+            "owner": "paris-saclay-cds",
+            "repo": "specio",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lightr",
+          "description": "Import UV/VIS spectral data and related metadata in R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-08T12:05:58Z",
+            "owner": "ropensci",
+            "repo": "lightr",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Import-Export"
+    },
+    {
+      "description": "Generate or analyse infrared spectra for combustion / plasma physics applications #infrared",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RADIS",
+          "description": "a fast line-by-line code for high-resolution infrared molecular spectra",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:42:46Z",
+            "owner": "radis",
+            "repo": "radis",
+            "stars": 278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HAPI",
+          "description": "HITRAN Application Programming Interface",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-23T10:29:12Z",
+            "owner": "hitranonline",
+            "repo": "hapi",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HELIOS-K",
+          "description": "Ultrafast opacity calculator for exoplanetary atmospheres.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-05T10:11:02Z",
+            "owner": "exoclime",
+            "repo": "HELIOS-K",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RadISpeC",
+          "description": "Radiation Interface for Matlab Spectroscopy Calculations. Uses HITRAN and HITEMP",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-07-11T09:25:06Z",
+            "owner": "BEAKH",
+            "repo": "RadISpeC",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Infrared Spectroscopy"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:35:55.048Z",
+    "original_repository": "erwanp/awesome-spectra",
+    "original_repository_sha": "0a06401f7b0e1442a0af685e61b701dc920b7e97",
+    "enhanced_repository": "enhansome/enhansome-spectra",
+    "enhanced_repository_description": null,
+    "title": "awesome-spectra with stars"
+  }
+}
