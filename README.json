@@ -14,7 +14,7 @@
             "last_commit": "2026-08-01T05:43:07Z",
             "owner": "astropy",
             "repo": "specutils",
-            "stars": 201
+            "stars": 202
           }
         },
         {
@@ -177,7 +177,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T12:28:06Z",
+            "last_commit": "2026-08-14T10:15:02Z",
             "owner": "spectrochempy",
             "repo": "spectrochempy",
             "stars": 181
@@ -273,7 +273,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T00:42:46Z",
+            "last_commit": "2026-08-13T13:48:37Z",
             "owner": "radis",
             "repo": "radis",
             "stars": 278
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:35:55.048Z",
+    "last_updated": "2026-08-14T12:31:22.445Z",
     "original_repository": "erwanp/awesome-spectra",
     "original_repository_sha": "0a06401f7b0e1442a0af685e61b701dc920b7e97",
     "enhanced_repository": "enhansome/enhansome-spectra",
