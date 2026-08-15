@@ -102,7 +102,7 @@ Other ways to find spectroscopy software:
   : a Python package for spectral data processing (IR, Raman, XAS...)
 
 * [SpectroChemPy](https://www.spectrochempy.fr/)
-  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 181 | 🐛 4 | 🌐 Python | 📅 2026-08-14
+  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 181 | 🐛 3 | 🌐 Python | 📅 2026-08-15
   : Processing, analysing and modelling spectroscopic data (IR, NMR, UV-vis, ...).
 
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) ⭐ 95 | 🐛 79 | 🌐 Python | 📅 2023-02-03
@@ -137,8 +137,8 @@ Other ways to find spectroscopy software:
 
 *Generate or analyse infrared spectra for combustion / plasma physics applications*  [#infrared](https://github.com/topics/infrared)
 
-* [RADIS](https://github.com/radis/radis) ⭐ 278 | 🐛 70 | 🌐 Python | 📅 2026-08-13
-  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social\&label=)](https://github.com/radis/radis/stargazers/) ⭐ 278 | 🐛 70 | 🌐 Python | 📅 2026-08-13
+* [RADIS](https://github.com/radis/radis) ⭐ 278 | 🐛 71 | 🌐 Python | 📅 2026-08-13
+  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social\&label=)](https://github.com/radis/radis/stargazers/) ⭐ 278 | 🐛 71 | 🌐 Python | 📅 2026-08-13
   : a fast line-by-line code for high-resolution infrared molecular spectra
 
 * [HAPI](https://github.com/hitranonline/hapi) ⭐ 104 | 🐛 47 | 🌐 Python | 📅 2026-04-23
@@ -221,4 +221,4 @@ Other ways to find spectroscopy software:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
