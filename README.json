@@ -177,7 +177,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T07:45:53Z",
+            "last_commit": "2026-08-16T11:32:52Z",
             "owner": "spectrochempy",
             "repo": "spectrochempy",
             "stars": 181
@@ -253,7 +253,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-08T12:05:58Z",
+            "last_commit": "2026-08-16T08:53:51Z",
             "owner": "ropensci",
             "repo": "lightr",
             "stars": 15
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T12:00:32.957Z",
+    "last_updated": "2026-08-16T12:01:08.698Z",
     "original_repository": "erwanp/awesome-spectra",
     "original_repository_sha": "0a06401f7b0e1442a0af685e61b701dc920b7e97",
     "enhanced_repository": "enhansome/enhansome-spectra",
