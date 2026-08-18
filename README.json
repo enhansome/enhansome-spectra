@@ -81,7 +81,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T13:45:57Z",
+            "last_commit": "2026-08-17T19:57:31Z",
             "owner": "sunpy",
             "repo": "radiospectra",
             "stars": 19
@@ -177,7 +177,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T11:40:22Z",
+            "last_commit": "2026-08-18T12:01:59Z",
             "owner": "spectrochempy",
             "repo": "spectrochempy",
             "stars": 181
@@ -273,7 +273,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T17:29:25Z",
+            "last_commit": "2026-08-17T13:42:02Z",
             "owner": "radis",
             "repo": "radis",
             "stars": 278
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T12:13:29.161Z",
+    "last_updated": "2026-08-18T12:15:26.680Z",
     "original_repository": "erwanp/awesome-spectra",
     "original_repository_sha": "0a06401f7b0e1442a0af685e61b701dc920b7e97",
     "enhanced_repository": "enhansome/enhansome-spectra",
