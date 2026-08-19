@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2577269,
             "language": "Python",
             "last_commit": "2026-08-01T05:43:07Z",
             "owner": "astropy",
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6116896,
             "language": "Python",
-            "last_commit": "2026-07-04T09:20:26Z",
+            "last_commit": "2026-08-18T17:40:12Z",
             "owner": "pyspeckit",
             "repo": "pyspeckit",
             "stars": 115
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51932497,
             "language": "Python",
             "last_commit": "2026-05-20T14:45:44Z",
             "owner": "chianti-atomic",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29729177,
             "language": "Python",
             "last_commit": "2025-10-23T15:20:03Z",
             "owner": "exoclime",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 109912295,
             "language": "Python",
             "last_commit": "2021-05-29T15:57:36Z",
             "owner": "PlasmaPy",
@@ -80,8 +85,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96422772,
             "language": "Python",
-            "last_commit": "2026-08-17T19:57:31Z",
+            "last_commit": "2026-08-18T13:17:59Z",
             "owner": "sunpy",
             "repo": "radiospectra",
             "stars": 19
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25713128,
             "language": "Python",
             "last_commit": "2026-03-02T21:28:20Z",
             "owner": "danmoser",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33204868,
             "language": "Python",
             "last_commit": "2024-12-19T01:14:46Z",
             "owner": "space-physics",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7121863,
             "language": "PLSQL",
             "last_commit": "2023-07-20T20:20:17Z",
             "owner": "exosports",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25485628,
             "language": "Python",
             "last_commit": "2018-09-19T22:51:10Z",
             "owner": "wblumberg",
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22355164,
             "language": "Python",
             "last_commit": "2026-03-30T19:55:21Z",
             "owner": "charlesll",
@@ -176,8 +187,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 263542899,
             "language": "Python",
-            "last_commit": "2026-08-18T12:01:59Z",
+            "last_commit": "2026-08-19T11:28:41Z",
             "owner": "spectrochempy",
             "repo": "spectrochempy",
             "stars": 181
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6740410,
             "language": "Python",
             "last_commit": "2023-02-03T19:47:32Z",
             "owner": "hughesadam87",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 151433975,
             "language": "Python",
             "last_commit": "2024-07-05T13:16:35Z",
             "owner": "ibcp",
@@ -224,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100617794,
             "language": "Python",
             "last_commit": "2023-09-14T22:57:39Z",
             "owner": "qedsoftware",
@@ -238,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96776380,
             "language": "Python",
             "last_commit": "2024-07-08T12:45:56Z",
             "owner": "paris-saclay-cds",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156700292,
             "language": "R",
             "last_commit": "2026-08-16T08:53:51Z",
             "owner": "ropensci",
@@ -272,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118933991,
             "language": "Python",
             "last_commit": "2026-08-17T13:42:02Z",
             "owner": "radis",
@@ -286,6 +304,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123041730,
             "language": "Python",
             "last_commit": "2026-04-23T10:29:12Z",
             "owner": "hitranonline",
@@ -300,6 +319,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32089487,
             "language": "Python",
             "last_commit": "2026-03-05T10:11:02Z",
             "owner": "exoclime",
@@ -314,6 +334,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140274189,
             "language": null,
             "last_commit": "2018-07-11T09:25:06Z",
             "owner": "BEAKH",
@@ -326,8 +347,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T12:15:26.680Z",
+    "last_updated": "2026-08-19T12:22:54.270Z",
     "original_repository": "erwanp/awesome-spectra",
+    "original_repository_id": 206315095,
     "original_repository_sha": "0a06401f7b0e1442a0af685e61b701dc920b7e97",
     "enhanced_repository": "enhansome/enhansome-spectra",
     "enhanced_repository_description": null,
