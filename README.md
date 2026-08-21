@@ -28,8 +28,8 @@ Other ways to find spectroscopy software:
 
 *Generate or analyse astrophysics / astronomy spectra*
 
-* [specutil](https://github.com/astropy/specutils) ⭐ 203 | 🐛 215 | 🌐 Python | 📅 2026-08-01
-  [![GitHub stars](https://img.shields.io/github/stars/astropy/specutils.svg?style=social\&label=)](https://github.com/astropy/specutils/stargazers/) ⭐ 203 | 🐛 215 | 🌐 Python | 📅 2026-08-01 :
+* [specutil](https://github.com/astropy/specutils) ⭐ 203 | 🐛 216 | 🌐 Python | 📅 2026-08-01
+  [![GitHub stars](https://img.shields.io/github/stars/astropy/specutils.svg?style=social\&label=)](https://github.com/astropy/specutils/stargazers/) ⭐ 203 | 🐛 216 | 🌐 Python | 📅 2026-08-01 :
   : a Python package for spectral analysis in astronomy
 
 * [pyspeckit](https://github.com/pyspeckit/pyspeckit) ⭐ 115 | 🐛 28 | 🌐 Python | 📅 2026-08-18
@@ -51,7 +51,7 @@ Other ways to find spectroscopy software:
 
 * [radiospectra](https://github.com/sunpy/radiospectra) ⭐ 19 | 🐛 52 | 🌐 Python | 📅 2026-08-20
   [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social\&label=)](https://github.com/sunpy/radiospectra/stargazers/) ⭐ 19 | 🐛 52 | 🌐 Python | 📅 2026-08-20
-  : radio spectra on solar physics from the [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,033 | 🐛 286 | 🌐 Python | 📅 2026-08-20 package
+  : radio spectra on solar physics from the [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,033 | 🐛 274 | 🌐 Python | 📅 2026-08-20 package
 
 * [pyhdust](https://pyhdust.readthedocs.io/en/latest/spectools.html#module-pyhdust.spectools)
   [![GitHub stars](https://img.shields.io/github/stars/danmoser/pyhdust.svg?style=social\&label=)](https://github.com/danmoser/pyhdust/stargazers/) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-03-02
@@ -102,7 +102,7 @@ Other ways to find spectroscopy software:
   : a Python package for spectral data processing (IR, Raman, XAS...)
 
 * [SpectroChemPy](https://www.spectrochempy.fr/)
-  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 181 | 🐛 1 | 🌐 Python | 📅 2026-08-20
+  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 181 | 🐛 1 | 🌐 Python | 📅 2026-08-21
   : Processing, analysing and modelling spectroscopic data (IR, NMR, UV-vis, ...).
 
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) ⭐ 95 | 🐛 79 | 🌐 Python | 📅 2023-02-03
@@ -221,4 +221,4 @@ Other ways to find spectroscopy software:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
