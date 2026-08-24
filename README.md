@@ -47,7 +47,7 @@ Other ways to find spectroscopy software:
 
 * [SpectroscoPyx](https://github.com/PlasmaPy/SpectroscoPyx) ⚠️ Archived
   [![GitHub stars](https://img.shields.io/github/stars/PlasmaPy/SpectroscoPyx.svg?style=social\&label=)](https://github.com/PlasmaPy/SpectroscoPyx/stargazers/) ⚠️ Archived
-  : spectroscopy package of the [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) ⭐ 706 | 🐛 351 | 🌐 Python | 📅 2026-08-24 project
+  : spectroscopy package of the [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) ⭐ 706 | 🐛 350 | 🌐 Python | 📅 2026-08-24 project
 
 * [radiospectra](https://github.com/sunpy/radiospectra) ⭐ 19 | 🐛 52 | 🌐 Python | 📅 2026-08-20
   [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social\&label=)](https://github.com/sunpy/radiospectra/stargazers/) ⭐ 19 | 🐛 52 | 🌐 Python | 📅 2026-08-20
@@ -102,7 +102,7 @@ Other ways to find spectroscopy software:
   : a Python package for spectral data processing (IR, Raman, XAS...)
 
 * [SpectroChemPy](https://www.spectrochempy.fr/)
-  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 181 | 🐛 1 | 🌐 Python | 📅 2026-08-24
+  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 181 | 🐛 0 | 🌐 Python | 📅 2026-08-24
   : Processing, analysing and modelling spectroscopic data (IR, NMR, UV-vis, ...).
 
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) ⭐ 95 | 🐛 79 | 🌐 Python | 📅 2023-02-03
@@ -171,6 +171,10 @@ Other ways to find spectroscopy software:
 
 \*Generate or analyse UV/VIS spectra (electronic states of atoms / molecules)
 
+* [pavo](https://github.com/rmaia/pavo) ⭐ 81 | 🐛 28 | 🌐 R | 📅 2026-07-30
+  [![GitHub stars](https://img.shields.io/github/stars/rmaia/pavo.svg?style=social\&label=)](https://github.com/rmaia/pavo/stargazers/) ⭐ 81 | 🐛 28 | 🌐 R | 📅 2026-07-30
+  : Perceptual Analysis, Visualization and Organization of Spectral Colour Data in R
+
 * [SPECAIR](http://www.specair-radiation.net/)
   (software)
   : software for calculation and fitting of UV/VIS plasma emission
@@ -178,10 +182,6 @@ Other ways to find spectroscopy software:
 * [SPARTAN](http://esther.ist.utl.pt/spartan/)
   (software)
   : software for line-by-line radiative calculation of high-temperature, low pressure plasmas
-
-* [pavo](https://github.com/rmaia/pavo) ⭐ 81 | 🐛 28 | 🌐 R | 📅 2026-07-30
-  [![GitHub stars](https://img.shields.io/github/stars/rmaia/pavo.svg?style=social\&label=)](https://github.com/rmaia/pavo/stargazers/) ⭐ 81 | 🐛 28 | 🌐 R | 📅 2026-07-30
-  : Perceptual Analysis, Visualization and Organization of Spectral Colour Data in R
 
 ## Spectral inference
 

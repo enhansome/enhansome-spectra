@@ -189,7 +189,7 @@
             "archived": false,
             "id": 263542899,
             "language": "Python",
-            "last_commit": "2026-08-24T11:11:13Z",
+            "last_commit": "2026-08-24T14:35:04Z",
             "owner": "spectrochempy",
             "repo": "spectrochempy",
             "stars": 181
@@ -344,10 +344,94 @@
         }
       ],
       "title": "Infrared Spectroscopy"
+    },
+    {
+      "description": "*Generate or analyse UV/VIS spectra (electronic states of atoms / molecules)",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pavo",
+          "description": "Perceptual Analysis, Visualization and Organization of Spectral Colour Data in R",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3310728,
+            "language": "R",
+            "last_commit": "2026-07-30T08:11:31Z",
+            "owner": "rmaia",
+            "repo": "pavo",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "UV / Visible Spectroscopy"
+    },
+    {
+      "description": "and fitting",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Starfish",
+          "description": "Tools for Flexible Spectroscopic Inference",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11635122,
+            "language": "Python",
+            "last_commit": "2026-07-22T12:57:22Z",
+            "owner": "Starfish-develop",
+            "repo": "Starfish",
+            "stars": 77
+          }
+        }
+      ],
+      "title": "Spectral inference"
+    },
+    {
+      "description": "general spectral analysis packages",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fityk",
+          "description": "curve fitting (peak fitting) software",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1102432,
+            "language": "C++",
+            "last_commit": "2026-03-02T20:33:10Z",
+            "owner": "wojdyr",
+            "repo": "fityk",
+            "stars": 302
+          }
+        }
+      ],
+      "title": "Post-processing"
+    },
+    {
+      "description": "Spectral visualizuation utilites",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "react-emission-spectra",
+          "description": "set of react components for visualising atomic lines on the visible spectrum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 286741656,
+            "language": "TypeScript",
+            "last_commit": "2020-08-13T01:19:13Z",
+            "owner": "Rested",
+            "repo": "react-emission-spectra",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Visualization"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T12:17:33.023Z",
+    "last_updated": "2026-08-24T14:38:55.578Z",
     "original_repository": "erwanp/awesome-spectra",
     "original_repository_id": 206315095,
     "original_repository_sha": "0a06401f7b0e1442a0af685e61b701dc920b7e97",
