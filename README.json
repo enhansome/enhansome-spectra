@@ -189,7 +189,7 @@
             "archived": false,
             "id": 263542899,
             "language": "Python",
-            "last_commit": "2026-08-24T14:35:04Z",
+            "last_commit": "2026-08-25T12:17:15Z",
             "owner": "spectrochempy",
             "repo": "spectrochempy",
             "stars": 181
@@ -431,7 +431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:30:46.746Z",
+    "last_updated": "2026-08-25T12:17:42.011Z",
     "original_repository": "erwanp/awesome-spectra",
     "original_repository_id": 206315095,
     "original_repository_sha": "0a06401f7b0e1442a0af685e61b701dc920b7e97",
