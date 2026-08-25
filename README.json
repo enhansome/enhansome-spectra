@@ -12,7 +12,7 @@
             "archived": false,
             "id": 2577269,
             "language": "Python",
-            "last_commit": "2026-08-01T05:43:07Z",
+            "last_commit": "2026-08-24T18:23:03Z",
             "owner": "astropy",
             "repo": "specutils",
             "stars": 204
@@ -431,7 +431,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:38:55.578Z",
+    "last_updated": "2026-08-25T06:30:46.746Z",
     "original_repository": "erwanp/awesome-spectra",
     "original_repository_id": 206315095,
     "original_repository_sha": "0a06401f7b0e1442a0af685e61b701dc920b7e97",

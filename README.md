@@ -28,8 +28,8 @@ Other ways to find spectroscopy software:
 
 *Generate or analyse astrophysics / astronomy spectra*
 
-* [specutil](https://github.com/astropy/specutils) ⭐ 204 | 🐛 216 | 🌐 Python | 📅 2026-08-01
-  [![GitHub stars](https://img.shields.io/github/stars/astropy/specutils.svg?style=social\&label=)](https://github.com/astropy/specutils/stargazers/) ⭐ 204 | 🐛 216 | 🌐 Python | 📅 2026-08-01 :
+* [specutil](https://github.com/astropy/specutils) ⭐ 204 | 🐛 215 | 🌐 Python | 📅 2026-08-24
+  [![GitHub stars](https://img.shields.io/github/stars/astropy/specutils.svg?style=social\&label=)](https://github.com/astropy/specutils/stargazers/) ⭐ 204 | 🐛 215 | 🌐 Python | 📅 2026-08-24 :
   : a Python package for spectral analysis in astronomy
 
 * [pyspeckit](https://github.com/pyspeckit/pyspeckit) ⭐ 115 | 🐛 28 | 🌐 Python | 📅 2026-08-18
@@ -47,7 +47,7 @@ Other ways to find spectroscopy software:
 
 * [SpectroscoPyx](https://github.com/PlasmaPy/SpectroscoPyx) ⚠️ Archived
   [![GitHub stars](https://img.shields.io/github/stars/PlasmaPy/SpectroscoPyx.svg?style=social\&label=)](https://github.com/PlasmaPy/SpectroscoPyx/stargazers/) ⚠️ Archived
-  : spectroscopy package of the [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) ⭐ 706 | 🐛 350 | 🌐 Python | 📅 2026-08-24 project
+  : spectroscopy package of the [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) ⭐ 706 | 🐛 350 | 🌐 Python | 📅 2026-08-25 project
 
 * [radiospectra](https://github.com/sunpy/radiospectra) ⭐ 19 | 🐛 52 | 🌐 Python | 📅 2026-08-20
   [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social\&label=)](https://github.com/sunpy/radiospectra/stargazers/) ⭐ 19 | 🐛 52 | 🌐 Python | 📅 2026-08-20
@@ -221,4 +221,4 @@ Other ways to find spectroscopy software:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
