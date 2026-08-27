@@ -192,7 +192,7 @@
             "last_commit": "2026-08-25T14:30:00Z",
             "owner": "spectrochempy",
             "repo": "spectrochempy",
-            "stars": 181
+            "stars": 182
           }
         },
         {
@@ -431,9 +431,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T12:19:44.791Z",
-    "original_repository": "erwanp/awesome-spectra",
-    "original_repository_id": 206315095,
+    "last_updated": "2026-08-27T12:07:34.510Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 206315095,
+      "language": null,
+      "last_commit": "2023-08-01T21:16:04Z",
+      "owner": "erwanp",
+      "repo": "awesome-spectra",
+      "stars": 131
+    },
     "original_repository_sha": "0a06401f7b0e1442a0af685e61b701dc920b7e97",
     "enhanced_repository": "enhansome/enhansome-spectra",
     "enhanced_repository_description": null,
