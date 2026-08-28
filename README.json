@@ -16,7 +16,8 @@
             "owner": "astropy",
             "repo": "specutils",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "pyspeckit",
             "repo": "pyspeckit",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 51932497,
             "language": "Python",
-            "last_commit": "2026-05-20T14:45:44Z",
+            "last_commit": "2026-08-28T13:59:14Z",
             "owner": "chianti-atomic",
             "repo": "ChiantiPy",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "exoclime",
             "repo": "HELIOS",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "PlasmaPy",
             "repo": "SpectroscoPyx",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "sunpy",
             "repo": "radiospectra",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "danmoser",
             "repo": "pyhdust",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         }
       ],
       "title": "Astrophysics & Astronomy Spectra"
@@ -127,7 +134,8 @@
             "owner": "space-physics",
             "repo": "lowtran",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "exosports",
             "repo": "BART",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "wblumberg",
             "repo": "PyLBLRTM",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         }
       ],
       "title": "Atmospheric Spectra"
@@ -177,8 +187,9 @@
             "last_commit": "2026-03-30T19:55:21Z",
             "owner": "charlesll",
             "repo": "rampy",
-            "stars": 259
-          }
+            "stars": 260
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -189,11 +200,12 @@
             "archived": false,
             "id": 263542899,
             "language": "Python",
-            "last_commit": "2026-08-25T14:30:00Z",
+            "last_commit": "2026-08-28T17:22:11Z",
             "owner": "spectrochempy",
             "repo": "spectrochempy",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "hughesadam87",
             "repo": "scikit-spectra",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "ibcp",
             "repo": "pyspectra",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         }
       ],
       "title": "General purpose"
@@ -244,7 +258,8 @@
             "owner": "qedsoftware",
             "repo": "brukeropusreader",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "paris-saclay-cds",
             "repo": "specio",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "ropensci",
             "repo": "lightr",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         }
       ],
       "title": "Import-Export"
@@ -295,7 +312,8 @@
             "owner": "radis",
             "repo": "radis",
             "stars": 278
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "hitranonline",
             "repo": "hapi",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -325,7 +344,8 @@
             "owner": "exoclime",
             "repo": "HELIOS-K",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "BEAKH",
             "repo": "RadISpeC",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         }
       ],
       "title": "Infrared Spectroscopy"
@@ -361,7 +382,8 @@
             "owner": "rmaia",
             "repo": "pavo",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         }
       ],
       "title": "UV / Visible Spectroscopy"
@@ -382,7 +404,8 @@
             "owner": "Starfish-develop",
             "repo": "Starfish",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         }
       ],
       "title": "Spectral inference"
@@ -403,7 +426,8 @@
             "owner": "wojdyr",
             "repo": "fityk",
             "stars": 302
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         }
       ],
       "title": "Post-processing"
@@ -424,14 +448,15 @@
             "owner": "Rested",
             "repo": "react-emission-spectra",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:32:02.982Z"
         }
       ],
       "title": "Visualization"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:19:35.373Z",
+    "last_updated": "2026-08-28T21:32:02.982Z",
     "original_repository_info": {
       "archived": false,
       "id": 206315095,

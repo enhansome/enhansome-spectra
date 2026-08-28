@@ -36,8 +36,8 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/pyspeckit/pyspeckit.svg?style=social\&label=)](https://github.com/pyspeckit/pyspeckit/stargazers/) ⭐ 115 | 🐛 28 | 🌐 Python | 📅 2026-08-18
   : a python spectroscopic toolkit for a wide variety of astronomical instruments.
 
-* [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy) ⭐ 75 | 🐛 24 | 🌐 Python | 📅 2026-05-20
-  [![GitHub stars](https://img.shields.io/github/stars/chianti-atomic/ChiantiPy.svg?style=social\&label=)](https://github.com/chianti-atomic/ChiantiPy/stargazers/) ⭐ 75 | 🐛 24 | 🌐 Python | 📅 2026-05-20
+* [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy) ⭐ 75 | 🐛 23 | 🌐 Python | 📅 2026-08-28
+  [![GitHub stars](https://img.shields.io/github/stars/chianti-atomic/ChiantiPy.svg?style=social\&label=)](https://github.com/chianti-atomic/ChiantiPy/stargazers/) ⭐ 75 | 🐛 23 | 🌐 Python | 📅 2026-08-28
   : python package to calculate the radiative properties of astrophysical
   plasmas based on the CHIANTI atomic database
 
@@ -97,12 +97,12 @@ Other ways to find spectroscopy software:
 
 *General spectral processing or analysis packages*
 
-* [rampy](https://github.com/charlesll/rampy) ⭐ 259 | 🐛 3 | 🌐 Python | 📅 2026-03-30
-  [![GitHub stars](https://img.shields.io/github/stars/charlesll/rampy.svg?style=social\&label=)](https://github.com/charlesll/rampy/stargazers/) ⭐ 259 | 🐛 3 | 🌐 Python | 📅 2026-03-30
+* [rampy](https://github.com/charlesll/rampy) ⭐ 260 | 🐛 3 | 🌐 Python | 📅 2026-03-30
+  [![GitHub stars](https://img.shields.io/github/stars/charlesll/rampy.svg?style=social\&label=)](https://github.com/charlesll/rampy/stargazers/) ⭐ 260 | 🐛 3 | 🌐 Python | 📅 2026-03-30
   : a Python package for spectral data processing (IR, Raman, XAS...)
 
 * [SpectroChemPy](https://www.spectrochempy.fr/)
-  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 182 | 🐛 0 | 🌐 Python | 📅 2026-08-25
+  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 182 | 🐛 0 | 🌐 Python | 📅 2026-08-28
   : Processing, analysing and modelling spectroscopic data (IR, NMR, UV-vis, ...).
 
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) ⭐ 95 | 🐛 79 | 🌐 Python | 📅 2023-02-03
@@ -141,8 +141,8 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social\&label=)](https://github.com/radis/radis/stargazers/) ⭐ 278 | 🐛 65 | 🌐 Python | 📅 2026-08-17
   : a fast line-by-line code for high-resolution infrared molecular spectra
 
-* [HAPI](https://github.com/hitranonline/hapi) ⭐ 104 | 🐛 47 | 🌐 Python | 📅 2026-04-23
-  [![GitHub stars](https://img.shields.io/github/stars/hitranonline/hapi.svg?style=social\&label=)](https://github.com/hitranonline/hapi/stargazers/) ⭐ 104 | 🐛 47 | 🌐 Python | 📅 2026-04-23
+* [HAPI](https://github.com/hitranonline/hapi) ⭐ 104 | 🐛 48 | 🌐 Python | 📅 2026-04-23
+  [![GitHub stars](https://img.shields.io/github/stars/hitranonline/hapi.svg?style=social\&label=)](https://github.com/hitranonline/hapi/stargazers/) ⭐ 104 | 🐛 48 | 🌐 Python | 📅 2026-04-23
   : HITRAN Application Programming Interface
 
 * [HELIOS-K](https://github.com/exoclime/HELIOS-K) ⭐ 24 | 🐛 4 | 🌐 Python | 📅 2026-03-05
@@ -221,4 +221,4 @@ Other ways to find spectroscopy software:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
