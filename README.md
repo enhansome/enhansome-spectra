@@ -47,7 +47,7 @@ Other ways to find spectroscopy software:
 
 * [SpectroscoPyx](https://github.com/PlasmaPy/SpectroscoPyx) ⚠️ Archived
   [![GitHub stars](https://img.shields.io/github/stars/PlasmaPy/SpectroscoPyx.svg?style=social\&label=)](https://github.com/PlasmaPy/SpectroscoPyx/stargazers/) ⚠️ Archived
-  : spectroscopy package of the [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) ⭐ 708 | 🐛 349 | 🌐 Python | 📅 2026-08-26 project
+  : spectroscopy package of the [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) ⭐ 708 | 🐛 351 | 🌐 Python | 📅 2026-08-31 project
 
 * [radiospectra](https://github.com/sunpy/radiospectra) ⭐ 19 | 🐛 52 | 🌐 Python | 📅 2026-08-20
   [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social\&label=)](https://github.com/sunpy/radiospectra/stargazers/) ⭐ 19 | 🐛 52 | 🌐 Python | 📅 2026-08-20
@@ -102,7 +102,7 @@ Other ways to find spectroscopy software:
   : a Python package for spectral data processing (IR, Raman, XAS...)
 
 * [SpectroChemPy](https://www.spectrochempy.fr/)
-  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 182 | 🐛 1 | 🌐 Python | 📅 2026-08-30
+  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 182 | 🐛 0 | 🌐 Python | 📅 2026-08-31
   : Processing, analysing and modelling spectroscopic data (IR, NMR, UV-vis, ...).
 
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) ⭐ 95 | 🐛 79 | 🌐 Python | 📅 2023-02-03
@@ -141,8 +141,8 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social\&label=)](https://github.com/radis/radis/stargazers/) ⭐ 278 | 🐛 65 | 🌐 Python | 📅 2026-08-17
   : a fast line-by-line code for high-resolution infrared molecular spectra
 
-* [HAPI](https://github.com/hitranonline/hapi) ⭐ 104 | 🐛 48 | 🌐 Python | 📅 2026-04-23
-  [![GitHub stars](https://img.shields.io/github/stars/hitranonline/hapi.svg?style=social\&label=)](https://github.com/hitranonline/hapi/stargazers/) ⭐ 104 | 🐛 48 | 🌐 Python | 📅 2026-04-23
+* [HAPI](https://github.com/hitranonline/hapi) ⭐ 105 | 🐛 48 | 🌐 Python | 📅 2026-04-23
+  [![GitHub stars](https://img.shields.io/github/stars/hitranonline/hapi.svg?style=social\&label=)](https://github.com/hitranonline/hapi/stargazers/) ⭐ 105 | 🐛 48 | 🌐 Python | 📅 2026-04-23
   : HITRAN Application Programming Interface
 
 * [HELIOS-K](https://github.com/exoclime/HELIOS-K) ⭐ 24 | 🐛 4 | 🌐 Python | 📅 2026-03-05
@@ -221,4 +221,4 @@ Other ways to find spectroscopy software:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
