@@ -15,7 +15,7 @@
             "id": 2577269,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-24T18:23:03Z",
+            "last_commit": "2026-09-01T05:43:28Z",
             "open_issues": 215,
             "owner": "astropy",
             "repo": "specutils",
@@ -138,8 +138,8 @@
             "id": 96422772,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-08-20T09:29:41Z",
-            "open_issues": 52,
+            "last_commit": "2026-09-01T14:57:43Z",
+            "open_issues": 53,
             "owner": "sunpy",
             "repo": "radiospectra",
             "stars": 19,
@@ -492,7 +492,7 @@
             "open_issues": 65,
             "owner": "radis",
             "repo": "radis",
-            "stars": 278,
+            "stars": 279,
             "topics": [
               "astrophysics",
               "closember",
@@ -720,7 +720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T18:11:11.007Z",
+    "last_updated": "2026-09-01T15:34:22.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
