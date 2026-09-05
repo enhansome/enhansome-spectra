@@ -489,7 +489,7 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-08-17T13:42:02Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "radis",
             "repo": "radis",
             "stars": 279,
@@ -609,8 +609,8 @@
             "id": 3310728,
             "language": "R",
             "license": "GPL-2.0",
-            "last_commit": "2026-07-30T08:11:31Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-05T02:16:49Z",
+            "open_issues": 27,
             "owner": "rmaia",
             "repo": "pavo",
             "stars": 81,
@@ -720,7 +720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T15:09:44.011Z",
+    "last_updated": "2026-09-05T14:00:57.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",

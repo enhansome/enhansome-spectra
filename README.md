@@ -137,8 +137,8 @@ Other ways to find spectroscopy software:
 
 *Generate or analyse infrared spectra for combustion / plasma physics applications*  [#infrared](https://github.com/topics/infrared)
 
-* [RADIS](https://github.com/radis/radis) ⭐ 279 | 🐛 65 | 🌐 Python | 📅 2026-08-17
-  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social\&label=)](https://github.com/radis/radis/stargazers/) ⭐ 279 | 🐛 65 | 🌐 Python | 📅 2026-08-17
+* [RADIS](https://github.com/radis/radis) ⭐ 279 | 🐛 66 | 🌐 Python | 📅 2026-08-17
+  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social\&label=)](https://github.com/radis/radis/stargazers/) ⭐ 279 | 🐛 66 | 🌐 Python | 📅 2026-08-17
   : a fast line-by-line code for high-resolution infrared molecular spectra
 
 * [HAPI](https://github.com/hitranonline/hapi) ⭐ 105 | 🐛 48 | 🌐 Python | 📅 2026-04-23
@@ -171,8 +171,8 @@ Other ways to find spectroscopy software:
 
 \*Generate or analyse UV/VIS spectra (electronic states of atoms / molecules)
 
-* [pavo](https://github.com/rmaia/pavo) ⭐ 81 | 🐛 28 | 🌐 R | 📅 2026-07-30
-  [![GitHub stars](https://img.shields.io/github/stars/rmaia/pavo.svg?style=social\&label=)](https://github.com/rmaia/pavo/stargazers/) ⭐ 81 | 🐛 28 | 🌐 R | 📅 2026-07-30
+* [pavo](https://github.com/rmaia/pavo) ⭐ 81 | 🐛 27 | 🌐 R | 📅 2026-09-05
+  [![GitHub stars](https://img.shields.io/github/stars/rmaia/pavo.svg?style=social\&label=)](https://github.com/rmaia/pavo/stargazers/) ⭐ 81 | 🐛 27 | 🌐 R | 📅 2026-09-05
   : Perceptual Analysis, Visualization and Organization of Spectral Colour Data in R
 
 * [SPECAIR](http://www.specair-radiation.net/)
@@ -221,4 +221,4 @@ Other ways to find spectroscopy software:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
