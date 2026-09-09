@@ -138,7 +138,7 @@
             "id": 96422772,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-03T12:31:27Z",
+            "last_commit": "2026-09-09T11:11:45Z",
             "open_issues": 52,
             "owner": "sunpy",
             "repo": "radiospectra",
@@ -298,7 +298,7 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T14:58:34Z",
+            "last_commit": "2026-09-09T14:36:06Z",
             "open_issues": 0,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
@@ -488,8 +488,8 @@
             "id": 118933991,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-17T13:42:02Z",
-            "open_issues": 66,
+            "last_commit": "2026-09-09T11:54:52Z",
+            "open_issues": 65,
             "owner": "radis",
             "repo": "radis",
             "stars": 280,
@@ -720,7 +720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T15:23:06.037Z",
+    "last_updated": "2026-09-09T15:20:58.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
