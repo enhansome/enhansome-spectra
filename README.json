@@ -16,7 +16,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-08T14:42:25Z",
-            "open_issues": 217,
+            "open_issues": 218,
             "owner": "astropy",
             "repo": "specutils",
             "stars": 204,
@@ -298,11 +298,11 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T03:05:49Z",
+            "last_commit": "2026-09-14T08:54:28Z",
             "open_issues": 1,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "chemistry",
               "data-analysis",
@@ -492,7 +492,7 @@
             "open_issues": 65,
             "owner": "radis",
             "repo": "radis",
-            "stars": 280,
+            "stars": 281,
             "topics": [
               "astrophysics",
               "closember",
@@ -609,8 +609,8 @@
             "id": 3310728,
             "language": "R",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-12T08:57:18Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-14T12:00:35Z",
+            "open_issues": 28,
             "owner": "rmaia",
             "repo": "pavo",
             "stars": 81,
@@ -720,7 +720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T15:06:07.394Z",
+    "last_updated": "2026-09-14T17:03:55.209Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
