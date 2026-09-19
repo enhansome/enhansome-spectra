@@ -60,7 +60,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-16T17:01:43Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "chianti-atomic",
             "repo": "ChiantiPy",
             "stars": 76,
@@ -489,10 +489,10 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-09-09T11:54:52Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "radis",
             "repo": "radis",
-            "stars": 281,
+            "stars": 280,
             "topics": [
               "astrophysics",
               "closember",
@@ -642,7 +642,7 @@
             "open_issues": 30,
             "owner": "Starfish-develop",
             "repo": "Starfish",
-            "stars": 77,
+            "stars": 78,
             "topics": [
               "astronomy",
               "astrophysics",
@@ -720,7 +720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T15:12:31.337Z",
+    "last_updated": "2026-09-19T14:50:23.477Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
