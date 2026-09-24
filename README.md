@@ -51,7 +51,7 @@ Other ways to find spectroscopy software:
 
 * [radiospectra](https://github.com/sunpy/radiospectra) ⭐ 20 | 🐛 53 | 🌐 Python | 📅 2026-09-16
   [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social\&label=)](https://github.com/sunpy/radiospectra/stargazers/) ⭐ 20 | 🐛 53 | 🌐 Python | 📅 2026-09-16
-  : radio spectra on solar physics from the [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,036 | 🐛 313 | 🌐 Python | 📅 2026-09-21 package
+  : radio spectra on solar physics from the [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,036 | 🐛 295 | 🌐 Python | 📅 2026-09-21 package
 
 * [pyhdust](https://pyhdust.readthedocs.io/en/latest/spectools.html#module-pyhdust.spectools)
   [![GitHub stars](https://img.shields.io/github/stars/danmoser/pyhdust.svg?style=social\&label=)](https://github.com/danmoser/pyhdust/stargazers/) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-03-02
@@ -102,7 +102,7 @@ Other ways to find spectroscopy software:
   : a Python package for spectral data processing (IR, Raman, XAS...)
 
 * [SpectroChemPy](https://www.spectrochempy.fr/)
-  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2026-09-23
+  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2026-09-24
   : Processing, analysing and modelling spectroscopic data (IR, NMR, UV-vis, ...).
 
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) ⭐ 95 | 🐛 79 | 🌐 Python | 📅 2023-02-03
@@ -129,24 +129,24 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/paris-saclay-cds/specio.svg?style=social\&label=)](https://github.com/paris-saclay-cds/specio/stargazers/) ⭐ 23 | 🐛 9 | 🌐 Python | 📅 2024-07-08
   : Interface to read hypersectral data
 
-* [lightr](https://github.com/ropensci/lightr) ⭐ 15 | 🐛 16 | 🌐 R | 📅 2026-08-16
-  [![GitHub stars](https://img.shields.io/github/stars/ropensci/lightr.svg?style=social\&label=)](https://github.com/ropensci/lightr/stargazers) ⭐ 15 | 🐛 16 | 🌐 R | 📅 2026-08-16
+* [lightr](https://github.com/ropensci/lightr) ⭐ 15 | 🐛 17 | 🌐 R | 📅 2026-09-24
+  [![GitHub stars](https://img.shields.io/github/stars/ropensci/lightr.svg?style=social\&label=)](https://github.com/ropensci/lightr/stargazers) ⭐ 15 | 🐛 17 | 🌐 R | 📅 2026-09-24
   : Import UV/VIS spectral data and related metadata in R
 
 ## Infrared Spectroscopy
 
 *Generate or analyse infrared spectra for combustion / plasma physics applications*  [#infrared](https://github.com/topics/infrared)
 
-* [RADIS](https://github.com/radis/radis) ⭐ 281 | 🐛 66 | 🌐 Python | 📅 2026-09-22
-  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social\&label=)](https://github.com/radis/radis/stargazers/) ⭐ 281 | 🐛 66 | 🌐 Python | 📅 2026-09-22
+* [RADIS](https://github.com/radis/radis) ⭐ 281 | 🐛 66 | 🌐 Python | 📅 2026-09-24
+  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social\&label=)](https://github.com/radis/radis/stargazers/) ⭐ 281 | 🐛 66 | 🌐 Python | 📅 2026-09-24
   : a fast line-by-line code for high-resolution infrared molecular spectra
 
-* [HAPI](https://github.com/hitranonline/hapi) ⭐ 105 | 🐛 48 | 🌐 Python | 📅 2026-04-23
-  [![GitHub stars](https://img.shields.io/github/stars/hitranonline/hapi.svg?style=social\&label=)](https://github.com/hitranonline/hapi/stargazers/) ⭐ 105 | 🐛 48 | 🌐 Python | 📅 2026-04-23
+* [HAPI](https://github.com/hitranonline/hapi) ⭐ 107 | 🐛 48 | 🌐 Python | 📅 2026-04-23
+  [![GitHub stars](https://img.shields.io/github/stars/hitranonline/hapi.svg?style=social\&label=)](https://github.com/hitranonline/hapi/stargazers/) ⭐ 107 | 🐛 48 | 🌐 Python | 📅 2026-04-23
   : HITRAN Application Programming Interface
 
-* [HELIOS-K](https://github.com/exoclime/HELIOS-K) ⭐ 24 | 🐛 4 | 🌐 Python | 📅 2026-03-05
-  [![GitHub stars](https://img.shields.io/github/stars/exoclime/HELIOS-K.svg?style=social\&label=)](https://github.com/exoclime/HELIOS-K/stargazers/) ⭐ 24 | 🐛 4 | 🌐 Python | 📅 2026-03-05
+* [HELIOS-K](https://github.com/exoclime/HELIOS-K) ⭐ 25 | 🐛 4 | 🌐 Python | 📅 2026-03-05
+  [![GitHub stars](https://img.shields.io/github/stars/exoclime/HELIOS-K.svg?style=social\&label=)](https://github.com/exoclime/HELIOS-K/stargazers/) ⭐ 25 | 🐛 4 | 🌐 Python | 📅 2026-03-05
   : Ultrafast opacity calculator for exoplanetary atmospheres.
 
 * [RadISpeC](https://github.com/BEAKH/RadISpeC) ⭐ 3 | 🐛 1 | 📅 2018-07-11
@@ -222,4 +222,4 @@ Other ways to find spectroscopy software:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
