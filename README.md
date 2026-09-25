@@ -28,8 +28,8 @@ Other ways to find spectroscopy software:
 
 *Generate or analyse astrophysics / astronomy spectra*
 
-* [specutil](https://github.com/astropy/specutils) ⭐ 206 | 🐛 219 | 🌐 Python | 📅 2026-09-08
-  [![GitHub stars](https://img.shields.io/github/stars/astropy/specutils.svg?style=social\&label=)](https://github.com/astropy/specutils/stargazers/) ⭐ 206 | 🐛 219 | 🌐 Python | 📅 2026-09-08 :
+* [specutil](https://github.com/astropy/specutils) ⭐ 206 | 🐛 220 | 🌐 Python | 📅 2026-09-08
+  [![GitHub stars](https://img.shields.io/github/stars/astropy/specutils.svg?style=social\&label=)](https://github.com/astropy/specutils/stargazers/) ⭐ 206 | 🐛 220 | 🌐 Python | 📅 2026-09-08 :
   : a Python package for spectral analysis in astronomy
 
 * [pyspeckit](https://github.com/pyspeckit/pyspeckit) ⭐ 115 | 🐛 28 | 🌐 Python | 📅 2026-08-18
@@ -102,7 +102,7 @@ Other ways to find spectroscopy software:
   : a Python package for spectral data processing (IR, Raman, XAS...)
 
 * [SpectroChemPy](https://www.spectrochempy.fr/)
-  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2026-09-24
+  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2026-09-25
   : Processing, analysing and modelling spectroscopic data (IR, NMR, UV-vis, ...).
 
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) ⭐ 95 | 🐛 79 | 🌐 Python | 📅 2023-02-03
@@ -129,8 +129,8 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/paris-saclay-cds/specio.svg?style=social\&label=)](https://github.com/paris-saclay-cds/specio/stargazers/) ⭐ 23 | 🐛 9 | 🌐 Python | 📅 2024-07-08
   : Interface to read hypersectral data
 
-* [lightr](https://github.com/ropensci/lightr) ⭐ 15 | 🐛 17 | 🌐 R | 📅 2026-09-24
-  [![GitHub stars](https://img.shields.io/github/stars/ropensci/lightr.svg?style=social\&label=)](https://github.com/ropensci/lightr/stargazers) ⭐ 15 | 🐛 17 | 🌐 R | 📅 2026-09-24
+* [lightr](https://github.com/ropensci/lightr) ⭐ 15 | 🐛 16 | 🌐 R | 📅 2026-09-25
+  [![GitHub stars](https://img.shields.io/github/stars/ropensci/lightr.svg?style=social\&label=)](https://github.com/ropensci/lightr/stargazers) ⭐ 15 | 🐛 16 | 🌐 R | 📅 2026-09-25
   : Import UV/VIS spectral data and related metadata in R
 
 ## Infrared Spectroscopy
@@ -195,8 +195,8 @@ Other ways to find spectroscopy software:
 
 *general spectral analysis packages*
 
-* [fityk](https://github.com/wojdyr/fityk) ⭐ 305 | 🐛 30 | 🌐 C++ | 📅 2026-03-02
-  [![GitHub stars](https://img.shields.io/github/stars/wojdyr/fityk.svg?style=social\&label=)](https://github.com/wojdyr/fityk/stargazers/) ⭐ 305 | 🐛 30 | 🌐 C++ | 📅 2026-03-02
+* [fityk](https://github.com/wojdyr/fityk) ⭐ 306 | 🐛 30 | 🌐 C++ | 📅 2026-03-02
+  [![GitHub stars](https://img.shields.io/github/stars/wojdyr/fityk.svg?style=social\&label=)](https://github.com/wojdyr/fityk/stargazers/) ⭐ 306 | 🐛 30 | 🌐 C++ | 📅 2026-03-02
   : curve fitting (peak fitting) software
 
 ## Databases
@@ -222,4 +222,4 @@ Other ways to find spectroscopy software:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

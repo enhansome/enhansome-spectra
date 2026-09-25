@@ -16,7 +16,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2026-09-08T14:42:25Z",
-            "open_issues": 219,
+            "open_issues": 220,
             "owner": "astropy",
             "repo": "specutils",
             "stars": 206,
@@ -298,7 +298,7 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T15:48:02Z",
+            "last_commit": "2026-09-25T14:55:09Z",
             "open_issues": 1,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
@@ -452,8 +452,8 @@
             "id": 156700292,
             "language": "R",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-24T08:50:46Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-25T11:45:26Z",
+            "open_issues": 16,
             "owner": "ropensci",
             "repo": "lightr",
             "stars": 15,
@@ -677,7 +677,7 @@
             "open_issues": 30,
             "owner": "wojdyr",
             "repo": "fityk",
-            "stars": 305,
+            "stars": 306,
             "topics": [
               "c-plus-plus",
               "chromatography",
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T15:56:36.797Z",
+    "last_updated": "2026-09-25T15:56:55.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
