@@ -273,7 +273,7 @@
             "open_issues": 3,
             "owner": "charlesll",
             "repo": "rampy",
-            "stars": 261,
+            "stars": 262,
             "topics": [
               "baseline",
               "infrared",
@@ -298,11 +298,11 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T14:52:20Z",
+            "last_commit": "2026-10-04T15:55:38Z",
             "open_issues": 1,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
-            "stars": 184,
+            "stars": 185,
             "topics": [
               "chemistry",
               "data-analysis",
@@ -492,7 +492,7 @@
             "open_issues": 66,
             "owner": "radis",
             "repo": "radis",
-            "stars": 283,
+            "stars": 284,
             "topics": [
               "astrophysics",
               "closember",
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T15:15:10.004Z",
+    "last_updated": "2026-10-04T15:59:57.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",

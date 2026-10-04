@@ -97,12 +97,12 @@ Other ways to find spectroscopy software:
 
 *General spectral processing or analysis packages*
 
-* [rampy](https://github.com/charlesll/rampy) ⭐ 261 | 🐛 3 | 🌐 Python | 📅 2026-03-30
-  [![GitHub stars](https://img.shields.io/github/stars/charlesll/rampy.svg?style=social\&label=)](https://github.com/charlesll/rampy/stargazers/) ⭐ 261 | 🐛 3 | 🌐 Python | 📅 2026-03-30
+* [rampy](https://github.com/charlesll/rampy) ⭐ 262 | 🐛 3 | 🌐 Python | 📅 2026-03-30
+  [![GitHub stars](https://img.shields.io/github/stars/charlesll/rampy.svg?style=social\&label=)](https://github.com/charlesll/rampy/stargazers/) ⭐ 262 | 🐛 3 | 🌐 Python | 📅 2026-03-30
   : a Python package for spectral data processing (IR, Raman, XAS...)
 
 * [SpectroChemPy](https://www.spectrochempy.fr/)
-  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2026-10-03
+  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2026-10-04
   : Processing, analysing and modelling spectroscopic data (IR, NMR, UV-vis, ...).
 
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) ⭐ 95 | 🐛 79 | 🌐 Python | 📅 2023-02-03
@@ -137,8 +137,8 @@ Other ways to find spectroscopy software:
 
 *Generate or analyse infrared spectra for combustion / plasma physics applications*  [#infrared](https://github.com/topics/infrared)
 
-* [RADIS](https://github.com/radis/radis) ⭐ 283 | 🐛 66 | 🌐 Python | 📅 2026-09-24
-  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social\&label=)](https://github.com/radis/radis/stargazers/) ⭐ 283 | 🐛 66 | 🌐 Python | 📅 2026-09-24
+* [RADIS](https://github.com/radis/radis) ⭐ 284 | 🐛 66 | 🌐 Python | 📅 2026-09-24
+  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social\&label=)](https://github.com/radis/radis/stargazers/) ⭐ 284 | 🐛 66 | 🌐 Python | 📅 2026-09-24
   : a fast line-by-line code for high-resolution infrared molecular spectra
 
 * [HAPI](https://github.com/hitranonline/hapi) ⭐ 107 | 🐛 48 | 🌐 Python | 📅 2026-04-23
@@ -222,4 +222,4 @@ Other ways to find spectroscopy software:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
