@@ -19,7 +19,7 @@
             "open_issues": 218,
             "owner": "astropy",
             "repo": "specutils",
-            "stars": 207,
+            "stars": 208,
             "topics": [
               "astropy"
             ]
@@ -298,8 +298,8 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T10:24:27Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-07T16:44:00Z",
+            "open_issues": 2,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
             "stars": 185,
@@ -492,7 +492,7 @@
             "open_issues": 66,
             "owner": "radis",
             "repo": "radis",
-            "stars": 284,
+            "stars": 285,
             "topics": [
               "astrophysics",
               "closember",
@@ -677,7 +677,7 @@
             "open_issues": 30,
             "owner": "wojdyr",
             "repo": "fityk",
-            "stars": 306,
+            "stars": 307,
             "topics": [
               "c-plus-plus",
               "chromatography",
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T17:26:02.647Z",
+    "last_updated": "2026-10-07T17:58:32.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
@@ -764,7 +764,7 @@
       "open_issues": 2,
       "owner": "erwanp",
       "repo": "awesome-spectra",
-      "stars": 131,
+      "stars": 132,
       "topics": [
         "astrophysics",
         "awesome",
