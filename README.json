@@ -194,7 +194,7 @@
             "open_issues": 8,
             "owner": "space-physics",
             "repo": "lowtran",
-            "stars": 118,
+            "stars": 119,
             "topics": [
               "atmosphere",
               "atmospheric-modelling",
@@ -298,8 +298,8 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-07T16:44:00Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-08T14:27:47Z",
+            "open_issues": 1,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
             "stars": 185,
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:58:32.367Z",
+    "last_updated": "2026-10-08T18:01:25.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
@@ -761,7 +761,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-20T12:59:49Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "erwanp",
       "repo": "awesome-spectra",
       "stars": 132,
