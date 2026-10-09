@@ -298,8 +298,8 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T14:27:47Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-09T15:34:54Z",
+            "open_issues": 5,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
             "stars": 185,
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T18:01:25.088Z",
+    "last_updated": "2026-10-09T17:33:50.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
@@ -760,8 +760,8 @@
       "id": 206315095,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-20T12:59:49Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-08T21:12:18Z",
+      "open_issues": 2,
       "owner": "erwanp",
       "repo": "awesome-spectra",
       "stars": 132,
@@ -781,7 +781,7 @@
         "uv"
       ]
     },
-    "original_repository_sha": "83f1585be7e67978501c26f678565d51e993da3f",
+    "original_repository_sha": "0cecc2d2053a3c969db1a650b0f9684bf05ae062",
     "enhanced_repository": "enhansome/enhansome-spectra",
     "enhanced_repository_description": null,
     "title": "awesome-spectra with stars"

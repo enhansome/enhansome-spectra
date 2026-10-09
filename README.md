@@ -47,11 +47,11 @@ Other ways to find spectroscopy software:
 
 * [SpectroscoPyx](https://github.com/PlasmaPy/SpectroscoPyx) ⚠️ Archived
   [![GitHub stars](https://img.shields.io/github/stars/PlasmaPy/SpectroscoPyx.svg?style=social\&label=)](https://github.com/PlasmaPy/SpectroscoPyx/stargazers/) ⚠️ Archived
-  : spectroscopy package of the [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) ⭐ 716 | 🐛 344 | 🌐 Python | 📅 2026-10-06 project
+  : spectroscopy package of the [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) ⭐ 717 | 🐛 344 | 🌐 Python | 📅 2026-10-06 project
 
 * [radiospectra](https://github.com/sunpy/radiospectra) ⭐ 20 | 🐛 52 | 🌐 Python | 📅 2026-10-06
   [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social\&label=)](https://github.com/sunpy/radiospectra/stargazers/) ⭐ 20 | 🐛 52 | 🌐 Python | 📅 2026-10-06
-  : radio spectra on solar physics from the [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,037 | 🐛 302 | 🌐 Python | 📅 2026-10-07 package
+  : radio spectra on solar physics from the [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,037 | 🐛 301 | 🌐 Python | 📅 2026-10-08 package
 
 * [pyhdust](https://pyhdust.readthedocs.io/en/latest/spectools.html#module-pyhdust.spectools)
   [![GitHub stars](https://img.shields.io/github/stars/danmoser/pyhdust.svg?style=social\&label=)](https://github.com/danmoser/pyhdust/stargazers/) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-03-02
@@ -102,7 +102,7 @@ Other ways to find spectroscopy software:
   : a Python package for spectral data processing (IR, Raman, XAS...)
 
 * [SpectroChemPy](https://www.spectrochempy.fr/)
-  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2026-10-08
+  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 185 | 🐛 5 | 🌐 Python | 📅 2026-10-09
   : Processing, analysing and modelling spectroscopic data (IR, NMR, UV-vis, ...).
 
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) ⭐ 95 | 🐛 79 | 🌐 Python | 📅 2023-02-03
@@ -219,7 +219,8 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/Rested/react-emission-spectra.svg?style=social\&label=)](https://github.com/Rested/react-emission-spectra/stargazers/) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2020-08-13
   set of react components for visualising atomic lines on the visible spectrum.
 * [SpectraViewer](https://github.com/zsolt-hidasi/SpectraViewer) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-20: lightweight open-source spectrum browser for Bruker OPUS, JCAMP-DX, and DPT files.
+* [Signum](https://chempirical.com/signum/) (website): free in-browser viewer for NMR, IR and UV-Vis spectra (JCAMP-DX, SPC, CSV) with peak picking, ¹H integration, baseline correction and overlays; files are read locally, nothing is uploaded.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
