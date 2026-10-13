@@ -298,7 +298,7 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T21:18:23Z",
+            "last_commit": "2026-10-13T14:16:08Z",
             "open_issues": 9,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
@@ -677,7 +677,7 @@
             "open_issues": 30,
             "owner": "wojdyr",
             "repo": "fityk",
-            "stars": 307,
+            "stars": 308,
             "topics": [
               "c-plus-plus",
               "chromatography",
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T20:26:18.390Z",
+    "last_updated": "2026-10-13T18:31:46.959Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
