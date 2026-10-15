@@ -299,10 +299,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-13T21:07:20Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
-            "stars": 185,
+            "stars": 186,
             "topics": [
               "chemistry",
               "data-analysis",
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T15:58:59.905Z",
+    "last_updated": "2026-10-15T15:47:03.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
@@ -764,7 +764,7 @@
       "open_issues": 2,
       "owner": "erwanp",
       "repo": "awesome-spectra",
-      "stars": 132,
+      "stars": 133,
       "topics": [
         "astrophysics",
         "awesome",
