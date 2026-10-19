@@ -47,11 +47,11 @@ Other ways to find spectroscopy software:
 
 * [SpectroscoPyx](https://github.com/PlasmaPy/SpectroscoPyx) ⚠️ Archived
   [![GitHub stars](https://img.shields.io/github/stars/PlasmaPy/SpectroscoPyx.svg?style=social\&label=)](https://github.com/PlasmaPy/SpectroscoPyx/stargazers/) ⚠️ Archived
-  : spectroscopy package of the [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) ⭐ 718 | 🐛 344 | 🌐 Python | 📅 2026-10-13 project
+  : spectroscopy package of the [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) ⭐ 718 | 🐛 344 | 🌐 Python | 📅 2026-10-19 project
 
 * [radiospectra](https://github.com/sunpy/radiospectra) ⭐ 21 | 🐛 52 | 🌐 Python | 📅 2026-10-14
   [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social\&label=)](https://github.com/sunpy/radiospectra/stargazers/) ⭐ 21 | 🐛 52 | 🌐 Python | 📅 2026-10-14
-  : radio spectra on solar physics from the [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,045 | 🐛 308 | 🌐 Python | 📅 2026-10-16 package
+  : radio spectra on solar physics from the [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,045 | 🐛 309 | 🌐 Python | 📅 2026-10-19 package
 
 * [pyhdust](https://pyhdust.readthedocs.io/en/latest/spectools.html#module-pyhdust.spectools)
   [![GitHub stars](https://img.shields.io/github/stars/danmoser/pyhdust.svg?style=social\&label=)](https://github.com/danmoser/pyhdust/stargazers/) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-03-02
@@ -137,8 +137,8 @@ Other ways to find spectroscopy software:
 
 *Generate or analyse infrared spectra for combustion / plasma physics applications*  [#infrared](https://github.com/topics/infrared)
 
-* [RADIS](https://github.com/radis/radis) ⭐ 285 | 🐛 66 | 🌐 Python | 📅 2026-09-24
-  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social\&label=)](https://github.com/radis/radis/stargazers/) ⭐ 285 | 🐛 66 | 🌐 Python | 📅 2026-09-24
+* [RADIS](https://github.com/radis/radis) ⭐ 286 | 🐛 66 | 🌐 Python | 📅 2026-09-24
+  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social\&label=)](https://github.com/radis/radis/stargazers/) ⭐ 286 | 🐛 66 | 🌐 Python | 📅 2026-09-24
   : a fast line-by-line code for high-resolution infrared molecular spectra
 
 * [HAPI](https://github.com/hitranonline/hapi) ⭐ 108 | 🐛 48 | 🌐 Python | 📅 2026-04-23
@@ -218,9 +218,9 @@ Other ways to find spectroscopy software:
 * [react-emission-spectra](https://github.com/Rested/react-emission-spectra) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2020-08-13
   [![GitHub stars](https://img.shields.io/github/stars/Rested/react-emission-spectra.svg?style=social\&label=)](https://github.com/Rested/react-emission-spectra/stargazers/) ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2020-08-13
   set of react components for visualising atomic lines on the visible spectrum.
-* [SpectraViewer](https://github.com/zsolt-hidasi/SpectraViewer) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-09-20: lightweight open-source spectrum browser for Bruker OPUS, JCAMP-DX, and DPT files.
+* [SpectraViewer](https://github.com/zsolt-hidasi/SpectraViewer) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-09-20: lightweight open-source spectrum browser for Bruker OPUS, JCAMP-DX, and DPT files.
 * [Signum](https://chempirical.com/signum/) (website): free in-browser viewer for NMR, IR and UV-Vis spectra (JCAMP-DX, SPC, CSV) with peak picking, ¹H integration, baseline correction and overlays; files are read locally, nothing is uploaded.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

@@ -492,7 +492,7 @@
             "open_issues": 66,
             "owner": "radis",
             "repo": "radis",
-            "stars": 285,
+            "stars": 286,
             "topics": [
               "astrophysics",
               "closember",
@@ -731,7 +731,7 @@
             "open_issues": 0,
             "owner": "zsolt-hidasi",
             "repo": "SpectraViewer",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "bruker-opus",
               "ftir",
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T14:52:52.949Z",
+    "last_updated": "2026-10-19T17:47:35.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
