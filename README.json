@@ -15,8 +15,8 @@
             "id": 2577269,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-14T12:20:12Z",
-            "open_issues": 220,
+            "last_commit": "2026-10-22T15:32:31Z",
+            "open_issues": 214,
             "owner": "astropy",
             "repo": "specutils",
             "stars": 209,
@@ -246,7 +246,7 @@
             "open_issues": 1,
             "owner": "wblumberg",
             "repo": "PyLBLRTM",
-            "stars": 17,
+            "stars": 18,
             "topics": []
           },
           "first_seen": "2026-08-28T21:32:02.982Z"
@@ -298,8 +298,8 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T13:19:55Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-22T14:38:05Z",
+            "open_issues": 11,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
             "stars": 187,
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T16:07:59.108Z",
+    "last_updated": "2026-10-22T16:05:32.937Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
