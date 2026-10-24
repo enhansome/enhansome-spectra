@@ -298,8 +298,8 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T14:37:07Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-24T12:33:06Z",
+            "open_issues": 17,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
             "stars": 187,
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T15:56:31.200Z",
+    "last_updated": "2026-10-24T14:54:55.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
