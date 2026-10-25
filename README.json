@@ -298,7 +298,7 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T12:33:06Z",
+            "last_commit": "2026-10-25T12:01:37Z",
             "open_issues": 17,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
@@ -489,10 +489,10 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-09-24T14:21:20Z",
-            "open_issues": 70,
+            "open_issues": 71,
             "owner": "radis",
             "repo": "radis",
-            "stars": 287,
+            "stars": 288,
             "topics": [
               "astrophysics",
               "closember",
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:54:55.903Z",
+    "last_updated": "2026-10-25T15:03:46.971Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
@@ -764,7 +764,7 @@
       "open_issues": 2,
       "owner": "erwanp",
       "repo": "awesome-spectra",
-      "stars": 133,
+      "stars": 134,
       "topics": [
         "astrophysics",
         "awesome",
