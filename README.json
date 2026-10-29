@@ -302,7 +302,7 @@
             "open_issues": 16,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
-            "stars": 187,
+            "stars": 188,
             "topics": [
               "chemistry",
               "data-analysis",
@@ -456,7 +456,7 @@
             "open_issues": 16,
             "owner": "ropensci",
             "repo": "lightr",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "file-import",
               "r",
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T17:26:23.475Z",
+    "last_updated": "2026-10-29T17:36:11.116Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
@@ -761,7 +761,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-08T21:12:18Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "erwanp",
       "repo": "awesome-spectra",
       "stars": 134,
