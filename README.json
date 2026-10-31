@@ -59,7 +59,7 @@
             "id": 51932497,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-28T14:46:07Z",
+            "last_commit": "2026-10-31T14:50:21Z",
             "open_issues": 25,
             "owner": "chianti-atomic",
             "repo": "ChiantiPy",
@@ -299,7 +299,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-28T16:57:47Z",
-            "open_issues": 16,
+            "open_issues": 18,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
             "stars": 188,
@@ -687,6 +687,48 @@
             ]
           },
           "first_seen": "2026-08-28T21:32:02.982Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CurveMole",
+          "description": "desktop curve and peak fitting with custom models, parameter links, global fitting, and Python/CLI/YAML interfaces (Windows, Linux, macOS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Scientific curve and peak fitting for spectroscopy, powder diffraction, kinetics and general x-y data. GUI, Python API and CLI.",
+            "homepage": "https://sebrolens.github.io/curvemole/",
+            "id": 1347358210,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-30T15:30:05Z",
+            "open_issues": 0,
+            "owner": "SebRoLENS",
+            "repo": "curvemole",
+            "stars": 0,
+            "topics": [
+              "curve-fitting",
+              "data-analysis",
+              "data-fitting",
+              "data-visualization",
+              "desktop-application",
+              "gui",
+              "infrared-spectroscopy",
+              "kinetics",
+              "least-squares",
+              "nonlinear-least-squares",
+              "peak-analysis",
+              "peak-fitting",
+              "powder-diffraction",
+              "python",
+              "raman-spectroscopy",
+              "scientific-computing",
+              "scientific-software",
+              "signal-analysis",
+              "spectroscopy",
+              "xrd"
+            ]
+          },
+          "first_seen": "2026-10-31T16:20:20.985Z"
         }
       ],
       "title": "Post-processing"
@@ -752,7 +794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T17:15:31.209Z",
+    "last_updated": "2026-10-31T16:20:20.985Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
@@ -760,8 +802,8 @@
       "id": 206315095,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-08T21:12:18Z",
-      "open_issues": 3,
+      "last_commit": "2026-10-31T15:45:20Z",
+      "open_issues": 2,
       "owner": "erwanp",
       "repo": "awesome-spectra",
       "stars": 134,
@@ -781,7 +823,7 @@
         "uv"
       ]
     },
-    "original_repository_sha": "0cecc2d2053a3c969db1a650b0f9684bf05ae062",
+    "original_repository_sha": "973c53bcf9a4cfff8771bafde3bb1a27c96f26d4",
     "enhanced_repository": "enhansome/enhansome-spectra",
     "enhanced_repository_description": null,
     "title": "awesome-spectra with stars"
