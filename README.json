@@ -298,7 +298,7 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-31T17:47:12Z",
+            "last_commit": "2026-11-02T15:35:59Z",
             "open_issues": 18,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
@@ -488,8 +488,8 @@
             "id": 118933991,
             "language": "Python",
             "license": "LGPL-3.0",
-            "last_commit": "2026-10-26T10:06:14Z",
-            "open_issues": 67,
+            "last_commit": "2026-11-02T16:56:10Z",
+            "open_issues": 70,
             "owner": "radis",
             "repo": "radis",
             "stars": 289,
@@ -700,7 +700,7 @@
             "id": 1347358210,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T15:30:05Z",
+            "last_commit": "2026-11-02T17:12:29Z",
             "open_issues": 0,
             "owner": "SebRoLENS",
             "repo": "curvemole",
@@ -794,7 +794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T17:15:55.482Z",
+    "last_updated": "2026-11-02T20:53:40.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
