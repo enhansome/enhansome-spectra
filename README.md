@@ -51,7 +51,7 @@ Other ways to find spectroscopy software:
 
 * [radiospectra](https://github.com/sunpy/radiospectra) ⭐ 21 | 🐛 52 | 🌐 Python | 📅 2026-10-28
   [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social\&label=)](https://github.com/sunpy/radiospectra/stargazers/) ⭐ 21 | 🐛 52 | 🌐 Python | 📅 2026-10-28
-  : radio spectra on solar physics from the [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,050 | 🐛 317 | 🌐 Python | 📅 2026-11-03 package
+  : radio spectra on solar physics from the [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,050 | 🐛 317 | 🌐 Python | 📅 2026-11-04 package
 
 * [pyhdust](https://pyhdust.readthedocs.io/en/latest/spectools.html#module-pyhdust.spectools)
   [![GitHub stars](https://img.shields.io/github/stars/danmoser/pyhdust.svg?style=social\&label=)](https://github.com/danmoser/pyhdust/stargazers/) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-03-02
@@ -102,7 +102,7 @@ Other ways to find spectroscopy software:
   : a Python package for spectral data processing (IR, Raman, XAS...)
 
 * [SpectroChemPy](https://www.spectrochempy.fr/)
-  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 189 | 🐛 21 | 🌐 Python | 📅 2026-11-03
+  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 189 | 🐛 17 | 🌐 Python | 📅 2026-11-04
   : Processing, analysing and modelling spectroscopic data (IR, NMR, UV-vis, ...).
 
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) ⭐ 95 | 🐛 79 | 🌐 Python | 📅 2023-02-03
@@ -199,7 +199,7 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/wojdyr/fityk.svg?style=social\&label=)](https://github.com/wojdyr/fityk/stargazers/) ⭐ 308 | 🐛 30 | 🌐 C++ | 📅 2026-03-02
   : curve fitting (peak fitting) software
 
-* [CurveMole](https://github.com/SebRoLENS/curvemole) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-03
+* [CurveMole](https://github.com/SebRoLENS/curvemole) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-04
   : desktop curve and peak fitting with custom models, parameter links, global fitting, and Python/CLI/YAML interfaces (Windows, Linux, macOS).
 
 ## Databases
@@ -226,4 +226,4 @@ Other ways to find spectroscopy software:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
