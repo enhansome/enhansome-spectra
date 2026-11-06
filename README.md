@@ -102,7 +102,7 @@ Other ways to find spectroscopy software:
   : a Python package for spectral data processing (IR, Raman, XAS...)
 
 * [SpectroChemPy](https://www.spectrochempy.fr/)
-  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 189 | 🐛 11 | 🌐 Python | 📅 2026-11-05
+  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 189 | 🐛 11 | 🌐 Python | 📅 2026-11-06
   : Processing, analysing and modelling spectroscopic data (IR, NMR, UV-vis, ...).
 
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) ⭐ 95 | 🐛 79 | 🌐 Python | 📅 2023-02-03
@@ -199,7 +199,7 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/wojdyr/fityk.svg?style=social\&label=)](https://github.com/wojdyr/fityk/stargazers/) ⭐ 308 | 🐛 30 | 🌐 C++ | 📅 2026-03-02
   : curve fitting (peak fitting) software
 
-* [CurveMole](https://github.com/SebRoLENS/curvemole) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-05
+* [CurveMole](https://github.com/SebRoLENS/curvemole) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-06
   : desktop curve and peak fitting with custom models, parameter links, global fitting, and Python/CLI/YAML interfaces (Windows, Linux, macOS).
 
 ## Databases
@@ -226,4 +226,4 @@ Other ways to find spectroscopy software:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._

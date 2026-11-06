@@ -298,7 +298,7 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T17:36:41Z",
+            "last_commit": "2026-11-06T17:20:44Z",
             "open_issues": 11,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
@@ -700,7 +700,7 @@
             "id": 1347358210,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-05T12:18:45Z",
+            "last_commit": "2026-11-06T10:41:16Z",
             "open_issues": 0,
             "owner": "SebRoLENS",
             "repo": "curvemole",
@@ -794,7 +794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T19:03:42.996Z",
+    "last_updated": "2026-11-06T18:31:42.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
