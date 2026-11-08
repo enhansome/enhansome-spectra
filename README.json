@@ -59,7 +59,7 @@
             "id": 51932497,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-10-31T14:50:21Z",
+            "last_commit": "2026-11-08T16:31:50Z",
             "open_issues": 25,
             "owner": "chianti-atomic",
             "repo": "ChiantiPy",
@@ -298,8 +298,8 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-06T21:26:35Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-08T16:07:55Z",
+            "open_issues": 11,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
             "stars": 189,
@@ -794,7 +794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:59:58.039Z",
+    "last_updated": "2026-11-08T17:15:22.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",

@@ -36,8 +36,8 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/pyspeckit/pyspeckit.svg?style=social\&label=)](https://github.com/pyspeckit/pyspeckit/stargazers/) ⭐ 115 | 🐛 28 | 🌐 Python | 📅 2026-08-18
   : a python spectroscopic toolkit for a wide variety of astronomical instruments.
 
-* [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy) ⭐ 76 | 🐛 25 | 🌐 Python | 📅 2026-10-31
-  [![GitHub stars](https://img.shields.io/github/stars/chianti-atomic/ChiantiPy.svg?style=social\&label=)](https://github.com/chianti-atomic/ChiantiPy/stargazers/) ⭐ 76 | 🐛 25 | 🌐 Python | 📅 2026-10-31
+* [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy) ⭐ 76 | 🐛 25 | 🌐 Python | 📅 2026-11-08
+  [![GitHub stars](https://img.shields.io/github/stars/chianti-atomic/ChiantiPy.svg?style=social\&label=)](https://github.com/chianti-atomic/ChiantiPy/stargazers/) ⭐ 76 | 🐛 25 | 🌐 Python | 📅 2026-11-08
   : python package to calculate the radiative properties of astrophysical
   plasmas based on the CHIANTI atomic database
 
@@ -102,7 +102,7 @@ Other ways to find spectroscopy software:
   : a Python package for spectral data processing (IR, Raman, XAS...)
 
 * [SpectroChemPy](https://www.spectrochempy.fr/)
-  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 189 | 🐛 10 | 🌐 Python | 📅 2026-11-06
+  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 189 | 🐛 11 | 🌐 Python | 📅 2026-11-08
   : Processing, analysing and modelling spectroscopic data (IR, NMR, UV-vis, ...).
 
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) ⭐ 95 | 🐛 79 | 🌐 Python | 📅 2023-02-03
@@ -226,4 +226,4 @@ Other ways to find spectroscopy software:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
