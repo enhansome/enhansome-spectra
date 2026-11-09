@@ -298,7 +298,7 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-08T16:07:55Z",
+            "last_commit": "2026-11-09T10:54:03Z",
             "open_issues": 11,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
@@ -609,8 +609,8 @@
             "id": 3310728,
             "language": "R",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-12T06:06:51Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-09T18:13:32Z",
+            "open_issues": 28,
             "owner": "rmaia",
             "repo": "pavo",
             "stars": 80,
@@ -677,7 +677,7 @@
             "open_issues": 30,
             "owner": "wojdyr",
             "repo": "fityk",
-            "stars": 308,
+            "stars": 309,
             "topics": [
               "c-plus-plus",
               "chromatography",
@@ -794,7 +794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T17:15:22.849Z",
+    "last_updated": "2026-11-09T21:38:49.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
@@ -806,7 +806,7 @@
       "open_issues": 2,
       "owner": "erwanp",
       "repo": "awesome-spectra",
-      "stars": 134,
+      "stars": 135,
       "topics": [
         "astrophysics",
         "awesome",
