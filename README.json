@@ -298,8 +298,8 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T10:54:03Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-10T14:54:05Z",
+            "open_issues": 12,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
             "stars": 189,
@@ -395,7 +395,7 @@
             "open_issues": 16,
             "owner": "qedsoftware",
             "repo": "brukeropusreader",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "absorption",
               "bruker",
@@ -700,7 +700,7 @@
             "id": 1347358210,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-06T10:41:16Z",
+            "last_commit": "2026-11-10T15:29:04Z",
             "open_issues": 0,
             "owner": "SebRoLENS",
             "repo": "curvemole",
@@ -794,7 +794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:38:49.500Z",
+    "last_updated": "2026-11-10T18:53:46.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
