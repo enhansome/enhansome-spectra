@@ -49,9 +49,9 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/PlasmaPy/SpectroscoPyx.svg?style=social\&label=)](https://github.com/PlasmaPy/SpectroscoPyx/stargazers/) ⚠️ Archived
   : spectroscopy package of the [PlasmaPy](https://github.com/PlasmaPy/PlasmaPy) ⭐ 724 | 🐛 344 | 🌐 Python | 📅 2026-11-10 project
 
-* [radiospectra](https://github.com/sunpy/radiospectra) ⭐ 21 | 🐛 52 | 🌐 Python | 📅 2026-10-28
-  [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social\&label=)](https://github.com/sunpy/radiospectra/stargazers/) ⭐ 21 | 🐛 52 | 🌐 Python | 📅 2026-10-28
-  : radio spectra on solar physics from the [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,052 | 🐛 325 | 🌐 Python | 📅 2026-11-10 package
+* [radiospectra](https://github.com/sunpy/radiospectra) ⭐ 21 | 🐛 52 | 🌐 Python | 📅 2026-11-11
+  [![GitHub stars](https://img.shields.io/github/stars/sunpy/radiospectra.svg?style=social\&label=)](https://github.com/sunpy/radiospectra/stargazers/) ⭐ 21 | 🐛 52 | 🌐 Python | 📅 2026-11-11
+  : radio spectra on solar physics from the [sunpy](https://github.com/sunpy/sunpy) ⭐ 1,052 | 🐛 327 | 🌐 Python | 📅 2026-11-11 package
 
 * [pyhdust](https://pyhdust.readthedocs.io/en/latest/spectools.html#module-pyhdust.spectools)
   [![GitHub stars](https://img.shields.io/github/stars/danmoser/pyhdust.svg?style=social\&label=)](https://github.com/danmoser/pyhdust/stargazers/) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2026-03-02
@@ -199,7 +199,7 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/wojdyr/fityk.svg?style=social\&label=)](https://github.com/wojdyr/fityk/stargazers/) ⭐ 309 | 🐛 30 | 🌐 C++ | 📅 2026-03-02
   : curve fitting (peak fitting) software
 
-* [CurveMole](https://github.com/SebRoLENS/curvemole) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-10
+* [CurveMole](https://github.com/SebRoLENS/curvemole) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-11-11
   : desktop curve and peak fitting with custom models, parameter links, global fitting, and Python/CLI/YAML interfaces (Windows, Linux, macOS).
 
 ## Databases
@@ -226,4 +226,4 @@ Other ways to find spectroscopy software:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
