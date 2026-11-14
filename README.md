@@ -102,7 +102,7 @@ Other ways to find spectroscopy software:
   : a Python package for spectral data processing (IR, Raman, XAS...)
 
 * [SpectroChemPy](https://www.spectrochempy.fr/)
-  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 189 | 🐛 11 | 🌐 Python | 📅 2026-11-13
+  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 189 | 🐛 11 | 🌐 Python | 📅 2026-11-14
   : Processing, analysing and modelling spectroscopic data (IR, NMR, UV-vis, ...).
 
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) ⭐ 95 | 🐛 79 | 🌐 Python | 📅 2023-02-03
@@ -226,4 +226,4 @@ Other ways to find spectroscopy software:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
