@@ -19,7 +19,7 @@
             "open_issues": 213,
             "owner": "astropy",
             "repo": "specutils",
-            "stars": 209,
+            "stars": 210,
             "topics": [
               "astropy"
             ]
@@ -298,7 +298,7 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-15T15:53:57Z",
+            "last_commit": "2026-11-16T18:00:19Z",
             "open_issues": 11,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
@@ -794,7 +794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T18:00:15.637Z",
+    "last_updated": "2026-11-16T21:16:50.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
