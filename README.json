@@ -298,11 +298,11 @@
             "id": 263542899,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T18:00:19Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-17T15:51:32Z",
+            "open_issues": 10,
             "owner": "spectrochempy",
             "repo": "spectrochempy",
-            "stars": 189,
+            "stars": 190,
             "topics": [
               "chemistry",
               "data-analysis",
@@ -492,7 +492,7 @@
             "open_issues": 71,
             "owner": "radis",
             "repo": "radis",
-            "stars": 289,
+            "stars": 290,
             "topics": [
               "astrophysics",
               "closember",
@@ -794,7 +794,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T21:16:50.094Z",
+    "last_updated": "2026-11-17T20:04:10.253Z",
     "original_repository_info": {
       "archived": false,
       "description": "🌈 A collaborative list of awesome tools for spectroscopy. Also, check:",
