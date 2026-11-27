@@ -36,13 +36,13 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/pyspeckit/pyspeckit.svg?style=social\&label=)](https://github.com/pyspeckit/pyspeckit/stargazers/) ⭐ 115 | 🐛 28 | 🌐 Python | 📅 2026-08-18
   : a python spectroscopic toolkit for a wide variety of astronomical instruments.
 
-* [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy) ⭐ 76 | 🐛 25 | 🌐 Python | 📅 2026-11-26
-  [![GitHub stars](https://img.shields.io/github/stars/chianti-atomic/ChiantiPy.svg?style=social\&label=)](https://github.com/chianti-atomic/ChiantiPy/stargazers/) ⭐ 76 | 🐛 25 | 🌐 Python | 📅 2026-11-26
+* [ChiantiPy](https://github.com/chianti-atomic/ChiantiPy) ⭐ 76 | 🐛 25 | 🌐 Python | 📅 2026-11-27
+  [![GitHub stars](https://img.shields.io/github/stars/chianti-atomic/ChiantiPy.svg?style=social\&label=)](https://github.com/chianti-atomic/ChiantiPy/stargazers/) ⭐ 76 | 🐛 25 | 🌐 Python | 📅 2026-11-27
   : python package to calculate the radiative properties of astrophysical
   plasmas based on the CHIANTI atomic database
 
-* [HELIOS](https://github.com/exoclime/helios) ⭐ 47 | 🐛 4 | 🌐 Python | 📅 2025-10-23
-  [![GitHub stars](https://img.shields.io/github/stars/exoclime/helios.svg?style=social\&label=)](https://github.com/exoclime/helios/stargazers/) ⭐ 47 | 🐛 4 | 🌐 Python | 📅 2025-10-23
+* [HELIOS](https://github.com/exoclime/helios) ⭐ 46 | 🐛 4 | 🌐 Python | 📅 2025-10-23
+  [![GitHub stars](https://img.shields.io/github/stars/exoclime/helios.svg?style=social\&label=)](https://github.com/exoclime/helios/stargazers/) ⭐ 46 | 🐛 4 | 🌐 Python | 📅 2025-10-23
   : GPU-Accelerated Radiative Transfer Code For Exoplanetary Atmospheres
 
 * [SpectroscoPyx](https://github.com/PlasmaPy/SpectroscoPyx) ⚠️ Archived
@@ -102,7 +102,7 @@ Other ways to find spectroscopy software:
   : a Python package for spectral data processing (IR, Raman, XAS...)
 
 * [SpectroChemPy](https://www.spectrochempy.fr/)
-  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 191 | 🐛 27 | 🌐 Python | 📅 2026-11-26
+  [![GitHub stars](https://img.shields.io/github/stars/spectrochempy/spectrochempy.svg?style=social\&label=)](https://github.com/spectrochempy/spectrochempy/stargazers) ⭐ 191 | 🐛 15 | 🌐 Python | 📅 2026-11-27
   : Processing, analysing and modelling spectroscopic data (IR, NMR, UV-vis, ...).
 
 * [scikit-spectra](https://github.com/hugadams/scikit-spectra) ⭐ 95 | 🐛 79 | 🌐 Python | 📅 2023-02-03
@@ -137,8 +137,8 @@ Other ways to find spectroscopy software:
 
 *Generate or analyse infrared spectra for combustion / plasma physics applications*  [#infrared](https://github.com/topics/infrared)
 
-* [RADIS](https://github.com/radis/radis) ⭐ 292 | 🐛 76 | 🌐 Python | 📅 2026-11-20
-  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social\&label=)](https://github.com/radis/radis/stargazers/) ⭐ 292 | 🐛 76 | 🌐 Python | 📅 2026-11-20
+* [RADIS](https://github.com/radis/radis) ⭐ 290 | 🐛 76 | 🌐 Python | 📅 2026-11-20
+  [![GitHub stars](https://img.shields.io/github/stars/radis/radis.svg?style=social\&label=)](https://github.com/radis/radis/stargazers/) ⭐ 290 | 🐛 76 | 🌐 Python | 📅 2026-11-20
   : a fast line-by-line code for high-resolution infrared molecular spectra
 
 * [HAPI](https://github.com/hitranonline/hapi) ⭐ 110 | 🐛 49 | 🌐 Python | 📅 2026-04-23
@@ -199,7 +199,7 @@ Other ways to find spectroscopy software:
   [![GitHub stars](https://img.shields.io/github/stars/wojdyr/fityk.svg?style=social\&label=)](https://github.com/wojdyr/fityk/stargazers/) ⭐ 310 | 🐛 30 | 🌐 C++ | 📅 2026-03-02
   : curve fitting (peak fitting) software
 
-* [CurveMole](https://github.com/SebRoLENS/curvemole) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-26
+* [CurveMole](https://github.com/SebRoLENS/curvemole) ⭐ 2 | 🐛 13 | 🌐 Python | 📅 2026-11-27
   : desktop curve and peak fitting with custom models, parameter links, global fitting, and Python/CLI/YAML interfaces (Windows, Linux, macOS).
 
 ## Databases
@@ -226,4 +226,4 @@ Other ways to find spectroscopy software:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
